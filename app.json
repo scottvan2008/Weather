@@ -25,10 +25,17 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
+    "plugins": [
+      "expo-router"
+    ],
     "extra": {
+      "router": {
+        "origin": false
+      },
       "eas": {
-        "projectId": "48542969-74cc-44f7-b1ed-4f1ac4b6f9cf"
+        "projectId": "3299e995-feec-4888-bc47-79df3b48829b"
       }
-    }
+    },
+    "owner": "scottvan2008"
   }
 }
